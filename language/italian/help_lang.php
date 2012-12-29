@@ -6,7 +6,7 @@ $lang['help_body'] = "
 <br>
 <h3>Come usare questo modulo.</h3>
 <p>
-	Per utilizzare questo modulo devi inserire il tuo indirizzo email direttamente nel codice andando a modificare il file controlelrs/admin.php alla linea 30.
+	Per utilizzare questo modulo devi inserire il tuo indirizzo email direttamente nel codice andando a modificare il file addons/shared_addons/modules/supporto/controller/admin.phpp alla linea 30 o nella cartella di riferimento SITE_REF del tuo sito.
 	<br>
 	In questo modo potrai utilizzare il modulo su tutti i siti che vorrai.
 </p>

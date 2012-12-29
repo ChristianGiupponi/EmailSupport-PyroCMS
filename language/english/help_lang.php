@@ -6,7 +6,7 @@ $lang['help_body'] = "
 <br>
 <h3>How to use the module</h3>
 <p>
-	To use this module you need to insert your email address in the code of  the module, you need to edit the controller/admin.php file at line 30.
+	To use this module you need to insert your email address in the code of  the module, you need to edit the addons/shared_addons/modules/supporto/controller/admin.php file at line 30 or in the SITE_REF folder
 	<br>
 	In this way you can use the module on every site you want.
 </p>

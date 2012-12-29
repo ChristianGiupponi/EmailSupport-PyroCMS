@@ -17,11 +17,13 @@
                 return array(
                         'name' => array(
                                 'it' => 'Supporto email',
-                                'en' => 'Email support'
+                                'en' => 'Email support',
+                                'fr' => 'Support email'
                         ),
                         'description' => array(
                                 'it' => 'Questo modulo permette di inviare richieste di supporto al webmaster utilizzando direttamente il pannello di controllo',
-                                'en' => 'Allow users send email to the webmaster for support or trouble'
+                                'en' => 'Allow users send email to the webmaster for support or trouble',
+                                'fr' => 'Permet aux utilisateurs d\'envoyer des messages électroniques au webmaster du site'
                         ),
                         'frontend' => FALSE,
                         'backend' => TRUE,

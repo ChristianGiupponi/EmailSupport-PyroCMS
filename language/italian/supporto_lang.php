@@ -16,9 +16,7 @@
  $lang['success_email'] 	= "La tua richiesta di supporto è stata inviata correttamente.";
  $lang['error_email']		= "Si è verificato un errore nell'inviare la richiesta di supporto.";
  
-<<<<<<< HEAD
  $lang['send_request']		= "Invia richiesta";
-=======
+
  $lang['send_request']		= "Invia richiesta";
  $lang['default_email']		= "Devi modificare l'indirizzo email che trovi nel file controller/admin.php alla linea 30 con un tuo indirizzo email.";
->>>>>>> Some code update

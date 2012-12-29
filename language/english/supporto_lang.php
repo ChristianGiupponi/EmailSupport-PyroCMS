@@ -16,4 +16,9 @@
   $lang['success_email'] 	= "Your support request has been sent.";
   $lang['error_email'] 		= "Unable to send your support request.";
 
+<<<<<<< HEAD
   $lang['send_request']		= "Send request";
+=======
+  $lang['send_request']		= "Send request";
+  $lang['default_email']	= "You need to set your email address in controllers/admin.php file at line 30 before to use this module.";
+>>>>>>> Some code update

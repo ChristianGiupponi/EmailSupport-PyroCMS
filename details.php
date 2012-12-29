@@ -21,7 +21,7 @@
                         ),
                         'description' => array(
                                 'it' => 'Questo modulo permette di inviare richieste di supporto al webmaster utilizzando direttamente il pannello di controllo',
-                                'en' => 'Allow users send email to the webmaster for support or trubles'
+                                'en' => 'Allow users send email to the webmaster for support or trouble'
                         ),
                         'frontend' => FALSE,
                         'backend' => TRUE,
